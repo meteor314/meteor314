@@ -1,5 +1,5 @@
 <h3 title="hehehe"> Hey 👋, I'm @meteor314!</h3>
-<a href="codepen.io/meteor314">
+<a href="https://codepen.io/meteor314">
   <img align="left" alt="Codepen meteor314" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />
 </a>
 
