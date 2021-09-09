@@ -19,7 +19,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 🌱 I’m currently exploring JS,NodeJS, Python with a big interest in NodeJS applets and Data Structures and Algorithms. 
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [meteor31415@gmail.com](mailto:meteor31415@gmail.com).
+- 📫 Email me at [meteor3141592@gmail.com](mailto:meteor3141592@gmail.com).
 
 
 
