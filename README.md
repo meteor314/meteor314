@@ -41,8 +41,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 " alt="meter314's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meteor314&count_private=true&theme=radical" alt="meteor314" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteor314&count_private=true&theme=radical" alt="meteor314" />
-
-
 ---
 Credit: [meteor314](https://github.com/meteor314)
 Last Edited on: 10/08/2021
