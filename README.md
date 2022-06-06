@@ -38,11 +38,11 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img src="![meteor314's GitHub stats](https://github-readme-stats.vercel.app/api?username=meteor314&theme=dark&show_icons=true)
-" alt="meter314's GitHub Stats">
+" alt="meteor314's GitHub Stats"> <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meteor314&count_private=true&theme=radical" alt="meteor314" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteor314&count_private=true&theme=radical" alt="meteor314" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteor314&count_private=false&theme=radical" alt="meteor314" />
 ---
 Credit: [meteor314](https://github.com/meteor314)
-Last Edited on: 10/08/2021
+Last Edited on: 066/06/2022
 
 
